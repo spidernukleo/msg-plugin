@@ -1,0 +1,10 @@
+messaggi:
+  errori:
+    msg-args: "&cCorretto utilizzo: /msg <player> <messaggio>"
+    reply-args: "&cCorretto utilizzo: /r <messaggio>"
+    player-not-found: "&cGiocatore a cui vuoi scrivere non trovato"
+    no-reply: "&cNon hai nessuno a cui risponde"
+    not-online: "&cGiocatore a cui rispondere non online"
+  core:
+    ricevuto: "(%player% -> %target%)"
+    mandato: "(%player% -> %target%)"
